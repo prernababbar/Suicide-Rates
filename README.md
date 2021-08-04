@@ -36,4 +36,6 @@ not be properly represented in the analysis outcome.
 - Analysis results may have limitations based on how I group or organize data.
 
 ## Analysis Method:
-Descriptive statistics, Autocorrelation time series, Linear Regression OLS model 
+- Descriptive statistics
+- Autocorrelation time series
+- Linear Regression OLS model 
