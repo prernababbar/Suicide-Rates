@@ -12,28 +12,28 @@ Source: Suicide Rates Overview 1985 to 2016
 (Compares socio-economic info with suicide rates by year and country)
 
 ## Hypothesis:
-● With the high speed of socio-economic growth of the last 30 years, a fast-paced lifestyle becomes
+- With the high speed of socio-economic growth of the last 30 years, a fast-paced lifestyle becomes
 common in people’s daily life. People get higher pressure in this social circumstance and may cause
 high chance of an increase in suicide rate.
-● Adults in middle age (36 to 55 years) are stressful in daily life and may result in high suicides, since
+- Adults in middle age (36 to 55 years) are stressful in daily life and may result in high suicides, since
 they face high pressure from many aspects. For example, the kids who can't leave, can't find a job and
 still need financial support, and aging parents who need more help than ever before. Also, competitive
 pressure in the workplace is also increasing, as the update of knowledge and technology accelerates.
-● Men have higher suicides than women since men are usually working outside and support family
+- Men have higher suicides than women since men are usually working outside and support family
 expenses.
-● People in developed countries may have higher suicides than people in developing countries.
-● Suicides have differences or high rates in specific countries depending on the special culture and
+- People in developed countries may have higher suicides than people in developing countries.
+- Suicides have differences or high rates in specific countries depending on the special culture and
 traditional thoughts.
 
 ## Initial Assumptions: 
-● The dataset only captured the year period from 1985 to 2016 for the majority of countries, the lack of
+- The dataset only captured the year period from 1985 to 2016 for the majority of countries, the lack of
 data from 2017 to current year 2020 may result in the prediction of suide rate different.
-● With the data I am utilizing, I am not incorporating outside factors that may be affecting the suicide
+- With the data I am utilizing, I am not incorporating outside factors that may be affecting the suicide
 rates. This may lead to a bias in the analysis.
-● We are assuming a causational relationship initially. This may prove not to be true, or if it is true it may
+- We are assuming a causational relationship initially. This may prove not to be true, or if it is true it may
 not be properly represented in the analysis outcome.
-● The results may be different depend on different analysis perspective and analysis skills
-● Analysis results may have limitations based on how I group or organize data.
+- The results may be different depend on different analysis perspective and analysis skills
+- Analysis results may have limitations based on how I group or organize data.
 
 ## Analysis Method:
 Descriptive statistics, Autocorrelation time series, Linear Regression OLS model 
